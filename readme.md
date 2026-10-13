@@ -2,4 +2,4 @@
 
 This is just a tutorial.  
 
-## Group name: *Jezùs*
+## Group name: *Jesús*
